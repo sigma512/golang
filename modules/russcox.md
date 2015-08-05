@@ -51,7 +51,7 @@ This year, on Texlution.com, the author wrote an article titled “[Why Golang i
 
 ## The Go Balance
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?start=204&end=276" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?start=205&end=276" -->
 
 How does Go accomplish those things?
 
@@ -143,7 +143,7 @@ In turn, the Go team at Google could never be large enough to support the entire
 
 ## Go's open source
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?start=893&end=999" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?start=894&end=999" -->
 
 What does open source mean? The minimum requirement is to open the source code, making it available under an open source license, and we've done that.
 
@@ -187,7 +187,7 @@ Of course, it's not all coordination and vision. Google still funds Go developme
 
 ## Examples
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?start=1219&end=1654" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?start=1220&end=1654" -->
 
 I want to share some evidence for this claim that, over time, the original Go team at Google is focusing more on coordination than direct development.
 
