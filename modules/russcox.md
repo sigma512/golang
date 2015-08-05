@@ -43,6 +43,26 @@ That situation inside Google has a lot in common with large scale, modern open s
 
 I believe much of Go's success is explained by the fact that Go is a great fit for cloud software, Go is a great fit for open source projects, and, serendipitously, both of those are growing in popularity and importance in the software industry.
 
-Other people have made similar observations. Here are two. Last year, on RedMonk.com, Donnie Berkholz wrote about “Go as the emerging language of cloud infrastructure,” observing that “[Go's] marquee projects ... are cloud-centric or otherwise made for dealing with distributed systems or transient environments.”
+Other people have made similar observations. Here are two. Last year, on RedMonk.com, Donnie Berkholz wrote about “[Go as the emerging language of cloud infrastructure](http://redmonk.com/dberkholz/2014/03/18/go-the-emerging-language-of-cloud-infrastructure/),” observing that “[Go's] marquee projects ... are cloud-centric or otherwise made for dealing with distributed systems or transient environments.”
 
-This year, on Texlution.com, the author wrote an article titled “Why Golang is doomed to succeed,” pointing out that this focus on large-scale development was possibly even better suited to open source than to Google itself: “This open source fitness is why I think you are about to see more and more Go around ...”
+This year, on Texlution.com, the author wrote an article titled “[Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/),” pointing out that this focus on large-scale development was possibly even better suited to open source than to Google itself: “This open source fitness is why I think you are about to see more and more Go around ...”
+
+<!-- @section -->
+
+## The Go Balance
+
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?start=204&end=4m36s" -->
+
+How does Go accomplish those things?
+
+How does it make scalable concurrency and scalable software development easier?
+
+Most people answer this question by talking about channels and goroutines, and interfaces, and fast builds, and the go command, and good tool support. Those are all important parts of the answer, but I think there is a broader idea behind them.
+
+I think of that idea as Go's balance. There are competing concerns in any software design, and there is a very natural tendency to try to solve all the problems you foresee. In Go, we have explicitly tried not to solve everything. Instead, we've tried to do just enough that you can build your own custom solutions easily.
+
+The way I would summarize Go's chosen balance is this: **Do Less. Enable More.**
+
+Do less, but enable more.
+
+Go can't do everything. We shouldn't try. But if we work at it, Go can probably do a few things well. If we select those things carefully, we can lay a foundation on which developers can *easily* build the solutions and tools they need, and ideally can interoperate with the solutions and tools built by others.
