@@ -15,7 +15,7 @@
 
 ## Welcome
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/cPSfA1bhgVA?end=50" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?end=50" -->
 
 Thank you all for traveling to Denver to be here, and thank you to everyone watching on video. If this is your first Gophercon, welcome. If you were here last year, welcome back. Thank you to the organizers for all the work it takes to make a conference like this happen. I am thrilled to be here and to be able to talk to all of you.
 
@@ -25,7 +25,7 @@ I am the tech lead for the Go project and the Go team at Google. I share that ro
 
 ## Why Go?
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/cPSfA1bhgVA?start=50&end=204" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/XvZOdpd_9tc?start=50&end=204" -->
 
 To get started, we have to go back to the beginning. Why did we start working on Go?
 
