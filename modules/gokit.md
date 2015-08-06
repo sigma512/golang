@@ -15,34 +15,34 @@
 
 ## GoKit
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=1AjaZi4QuGo?end=355" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?end=355" -->
 
 <!-- @section -->
 
 ## Goals
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=1AjaZi4QuGo?start=355&end=490" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=355&end=490" -->
 
 <!-- @section -->
 
 ## Non-goals
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=1AjaZi4QuGo?start=490&end=585" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=490&end=585" -->
 
 <!-- @section -->
 
 ## Components
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=1AjaZi4QuGo?start=585&end=990" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=585&end=990" -->
 
 <!-- @section -->
 
 ## An example Service
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=1AjaZi4QuGo?start=990&end=1367" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=990&end=1367" -->
 
 <!-- @section -->
 
 ## What's next
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=1AjaZi4QuGo?start=1367" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=1367" -->
