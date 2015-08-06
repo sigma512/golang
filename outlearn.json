@@ -16,7 +16,7 @@
   ],
 
   "modules" : [
-    {"olm" : "./modules/russcox.md"}
+    {"olm" : "./modules/russcox.md"},
     {"olm" : "./modules/gokit.md"}
   ],
 
