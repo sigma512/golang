@@ -9,13 +9,15 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/gophercon2015-welcome.md"},
-        {"module" : "russcox"}
+        {"module" : "russcox"},
+        {"module" : "gokit"}
       ]
     }
   ],
 
   "modules" : [
     {"olm" : "./modules/russcox.md"}
+    {"olm" : "./modules/gokit.md"}
   ],
 
   "assets" : [
