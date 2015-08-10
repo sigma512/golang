@@ -36,13 +36,13 @@ This talk was given at GopherCon 2015 in Denver Colorado. You can follow along w
 
 ## Components
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=588&end=994" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=588&end=988" -->
 
 <!-- @section -->
 
 ## An example Service
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=994&end=1367" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=988&end=1367" -->
 
 <!-- @section -->
 
