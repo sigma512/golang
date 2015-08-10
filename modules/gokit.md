@@ -15,34 +15,37 @@
 
 ## GoKit
 
+This talk was given at GopherCon 2015 in Denver Colorado. You can follow along with the [slides for the talk](https://github.com/gophercon/2015-talks/blob/master/Go%20kit/go-kit.pdf).
+
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?end=355" -->
 
 <!-- @section -->
 
 ## Goals
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=355&end=490" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=355&end=486" -->
 
 <!-- @section -->
 
 ## Non-goals
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=490&end=585" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=486&end=589" -->
 
 <!-- @section -->
 
 ## Components
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=585&end=990" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=589&end=988" -->
 
 <!-- @section -->
 
 ## An example Service
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=990&end=1367" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=988&end=1368" -->
 
 <!-- @section -->
 
 ## What's next
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=1367" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=1368" -->
