@@ -30,22 +30,22 @@ This talk was given at GopherCon 2015 in Denver Colorado. You can follow along w
 
 ## Non-goals
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=486&end=589" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=486&end=588" -->
 
 <!-- @section -->
 
 ## Components
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=589&end=988" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=588&end=994" -->
 
 <!-- @section -->
 
 ## An example Service
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=988&end=1368" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=994&end=1367" -->
 
 <!-- @section -->
 
 ## What's next
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=1368" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/1AjaZi4QuGo?start=1367" -->
