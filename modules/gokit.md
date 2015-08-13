@@ -6,7 +6,7 @@
 "description" : "TBD",
 "homepage" : "https://github.com/gophercon/2015-talks/blob/master/Go%20kit/go-kit.pdf",
 "canonicalSource" : "https://github.com/gophercon/2015-talks/blob/master/Go%20kit/go-kit.pdf",
-"freshnessDate" : 2015-07-08,
+"freshnessDate" : 2015-07-28,
 "license" : "All Rights Reserved"
 }
 -->

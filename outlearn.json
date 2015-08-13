@@ -12,7 +12,14 @@
         {"module" : "russcox"},
         {"module" : "gokit"},
         {"module" : "delveintogo"},
-        {"module" : "beginner-learned-go"}
+        {"module" : "beginner-learned-go"},
+        {"module" : "preventing-deadlocks-and-leaks-in-go"},
+        {"module" : "solvinglatencyproblem"},
+        {"module" : "simplicity-and-go"},
+        {"module" : "rebuilding-parse"},
+        {"module" : "prometheus"},
+        {"module" : "what-could-go-wrong"},
+        {"module" : "the-roots-of-go"}
       ]
     }
   ],
@@ -21,7 +28,14 @@
     {"olm" : "./modules/russcox.md"},
     {"olm" : "./modules/gokit.md"},
     {"olm" : "./modules/delveintogo.md"},
-    {"olm" : "./modules/beginner-learned-go.md"}
+    {"olm" : "./modules/beginner-learned-go.md"},
+    {"olm" : "./modules/preventing-deadlocks-and-leaks-in-go.md"},
+    {"olm" : "./modules/solvinglatencyproblem.md"},
+    {"olm" : "./modules/simplicity-and-go.md"},
+    {"olm" : "./modules/rebuilding-parse.md"},
+    {"olm" : "./modules/prometheus.md"},
+    {"olm" : "./modules/what-could-go-wrong.md"},
+    {"olm" : "./modules/the-roots-of-go.md"}
   ],
 
   "assets" : [
