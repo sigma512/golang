@@ -10,14 +10,16 @@
       "pages" : [
         {"page" : "./pages/gophercon2015-welcome.md"},
         {"module" : "russcox"},
-        {"module" : "gokit"}
+        {"module" : "gokit"},
+        {"module" : "delveintogo"}
       ]
     }
   ],
 
   "modules" : [
     {"olm" : "./modules/russcox.md"},
-    {"olm" : "./modules/gokit.md"}
+    {"olm" : "./modules/gokit.md"},
+    {"olm" : "./modules/delveintogo.md"}
   ],
 
   "assets" : [
