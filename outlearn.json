@@ -11,7 +11,8 @@
         {"page" : "./pages/gophercon2015-welcome.md"},
         {"module" : "russcox"},
         {"module" : "gokit"},
-        {"module" : "delveintogo"}
+        {"module" : "delveintogo"},
+        {"module" : "beginner-learned-go"}
       ]
     }
   ],
@@ -19,7 +20,8 @@
   "modules" : [
     {"olm" : "./modules/russcox.md"},
     {"olm" : "./modules/gokit.md"},
-    {"olm" : "./modules/delveintogo.md"}
+    {"olm" : "./modules/delveintogo.md"},
+    {"olm" : "./modules/beginner-learned-go.md"}
   ],
 
   "assets" : [
