@@ -29,7 +29,8 @@
         {"module" : "cayley"},
         {"module" : "code-generation"},
         {"module" : "the-many-faces-of-struct-tags"},
-        {"module" : "betting-the-company-on-go-and-winning"}
+        {"module" : "betting-the-company-on-go-and-winning"},
+        {"module" : "how-go-was-made"}
       ]
     }
   ],
@@ -55,7 +56,8 @@
     {"olm" : "./modules/cayley.md"},
     {"olm" : "./modules/code-generation.md"},
     {"olm" : "./modules/the-many-faces-of-struct-tags.md"},
-    {"olm" : "./modules/betting-the-company-on-go-and-winning.md"}
+    {"olm" : "./modules/betting-the-company-on-go-and-winning.md"},
+    {"olm" : "./modules/how-go-was-made.md"}
   ],
 
   "assets" : [
