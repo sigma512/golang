@@ -27,7 +27,9 @@
         {"module" : "embrace-the-interface"},
         {"module" : "building-resilient-services"},
         {"module" : "cayley"},
-        {"module" : "code-generation"}
+        {"module" : "code-generation"},
+        {"module" : "the-many-faces-of-struct-tags"},
+        {"module" : "betting-the-company-on-go-and-winning"}
       ]
     }
   ],
@@ -51,7 +53,9 @@
     {"olm" : "./modules/embrace-the-interface.md"},
     {"olm" : "./modules/building-resilient-services.md"},
     {"olm" : "./modules/cayley.md"},
-    {"olm" : "./modules/code-generation.md"}
+    {"olm" : "./modules/code-generation.md"},
+    {"olm" : "./modules/the-many-faces-of-struct-tags.md"},
+    {"olm" : "./modules/betting-the-company-on-go-and-winning.md"}
   ],
 
   "assets" : [
