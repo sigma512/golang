@@ -21,7 +21,9 @@
         {"module" : "what-could-go-wrong"},
         {"module" : "the-roots-of-go"},
         {"module" : "evolution-of-go"},
-        {"module" : "static-code-analysis"}
+        {"module" : "static-code-analysis"},
+        {"module" : "go-on-mobile"},
+        {"module" : "go-dynamic-tools"}
       ]
     }
   ],
@@ -39,7 +41,9 @@
     {"olm" : "./modules/what-could-go-wrong.md"},
     {"olm" : "./modules/the-roots-of-go.md"},
     {"olm" : "./modules/evolution-of-go.md"},
-    {"olm" : "./modules/static-code-analysis.md"}
+    {"olm" : "./modules/static-code-analysis.md"},
+    {"olm" : "./modules/go-on-mobile.md"},
+    {"olm" : "./modules/go-dynamic-tools.md"}
   ],
 
   "assets" : [
