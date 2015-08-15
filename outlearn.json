@@ -23,7 +23,9 @@
         {"module" : "evolution-of-go"},
         {"module" : "static-code-analysis"},
         {"module" : "go-on-mobile"},
-        {"module" : "go-dynamic-tools"}
+        {"module" : "go-dynamic-tools"},
+        {"module" : "embrace-the-interface"},
+        {"module" : "building-resilient-services"}
       ]
     }
   ],
@@ -43,7 +45,9 @@
     {"olm" : "./modules/evolution-of-go.md"},
     {"olm" : "./modules/static-code-analysis.md"},
     {"olm" : "./modules/go-on-mobile.md"},
-    {"olm" : "./modules/go-dynamic-tools.md"}
+    {"olm" : "./modules/go-dynamic-tools.md"},
+    {"olm" : "./modules/embrace-the-interface.md"},
+    {"olm" : "./modules/building-resilient-services.md"}
   ],
 
   "assets" : [
