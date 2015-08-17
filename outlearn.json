@@ -5,7 +5,7 @@
     {
       "name" : "gophercon2015",
       "title" : "GopherCon 2015",
-      "description" : "All the talks of GopherCon 2015.",
+      "description" : "Watch all the talks of GopherCon 2015.",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/gophercon2015-welcome.md"},

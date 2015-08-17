@@ -1,3 +1,3 @@
 # Welcome
 
-A few weeks ago, Go programmers from around the world descended on Denver, Colorado for GopherCon 2015. The two-day, single-track conference attracted more than 1,250 attendees—nearly double last year's number—and featured 22 talks presented by Go community members.
+Go programmers from around the world came together at Denver, Colorado for GopherCon 2015. Here you can see all the talks as well as the slides. Get up to speed on the latest in the world of Go.
